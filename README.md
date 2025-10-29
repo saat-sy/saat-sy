@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Saatwik</h1>
+<h3 align="center">MS CS @ USC | Building with AI & Cloud</h3>
 
-<!--
-**saat-sy/saat-sy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm Working On
+- **Timbre-Agent v2**: Streaming agent that analyzes video frames in realtime and pipes emotion/scene data straight to Google Lyria for on-the-fly music generation. No more uploading, waiting, downloading.
+- **MMChat**: Building a chat where some people type and others talk simultaneously. Voice participants hear TTS of text messages, texters get STT transcripts. Figuring out the latency demons as we speak.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent Highlights
+- **Timbre**: Multimodal AI that scores videos by analyzing visual + audio cues through Bedrock, then generates matching soundtracks. Orchestrated with Step Functions state machines because Lambda timeouts are for cowards.
+- **Hyprlander**: ReAct agent in Go that parses natural language into Hyprland IPC calls. No more grepping through config files! Just tell your WM what to do and watch it happen.
+
+---
+
+### Let's Connect
+- **LinkedIn:** linkedin.com/in/saatwik-yajaman
+- **Email:** saatwik.sy@gmail.com
