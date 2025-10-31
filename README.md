@@ -3,7 +3,7 @@
 
 ### What I'm Working On
 - **Timbre-Agent v2**: Streaming agent that analyzes video frames in realtime and pipes emotion/scene data straight to Google Lyria for on-the-fly music generation. No more uploading, waiting, downloading.
-- **MMChat**: Building a chat where some people type and others talk simultaneously. Voice participants hear TTS of text messages, texters get STT transcripts. Figuring out the latency demons as we speak.
+- **Audry**: Building a chat where some people type and others talk simultaneously. Voice participants hear TTS of text messages, texters get STT transcripts. Figuring out the latency demons as we speak.
 
 ---
 
