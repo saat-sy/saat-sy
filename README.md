@@ -2,14 +2,15 @@
 <h3 align="center">MS CS @ USC | Building with AI & Cloud</h3>
 
 ### What I'm Working On
-- **Timbre-Agent v2**: Streaming agent that analyzes video frames in realtime and pipes emotion/scene data straight to Google Lyria for on-the-fly music generation. No more uploading, waiting, downloading.
-- **Audry**: Building a chat where some people type and others talk simultaneously. Voice participants hear TTS of text messages, texters get STT transcripts. Figuring out the latency demons as we speak.
+- **EveryGPU**: Building a distributed inference runtime that combines GPUs across different machines and networks to serve models too large for any single device. Currently optimizing model sharding, network transfers and end-to-end inference performance.
 
 ---
 
 ### Recent Highlights
-- **Timbre**: Multimodal AI that scores videos by analyzing visual + audio cues through Bedrock, then generates matching soundtracks. Orchestrated with Step Functions state machines because Lambda timeouts are for cowards.
-- **Hyprlander**: ReAct agent in Go that parses natural language into Hyprland IPC calls. No more grepping through config files! Just tell your WM what to do and watch it happen.
+- **Timbre**:
+  - **v2**: Streaming agent that analyzes video frames in realtime and pipes emotion/scene data straight to Google Lyria for on-the-fly music generation. No more uploading, waiting, downloading.
+  - **v1**: Multimodal AI that scores videos by analyzing visual + audio cues through Bedrock, then generates matching soundtracks. Orchestrated with Step Functions state machines because Lambda timeouts.
+- **Hyprlander**: ReAct agent in Go that parses natural language into Hyprland IPC calls. No more grepping through config files!
 
 ---
 
